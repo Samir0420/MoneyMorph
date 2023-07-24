@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Money Morph",
+    "version": "1.0",
+    "description": "A easy to use chrome extention that lets you convert currency easily",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }

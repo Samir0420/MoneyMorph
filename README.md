@@ -2,7 +2,7 @@
 
 This repository contains a currency converter project that allows users to convert the currency they have easily.
 
-Getting Started To use the JokeBox extension, follow these steps:
+To use the MoneyMorph extension, follow these steps:
 
 Download the Chrome extension. 
 Input the currency you have. 
